@@ -6,7 +6,7 @@
 
 | Home Screen | Login Screen |
 |:---:|:---:|
-| ![Home Screen CuacaKu](https://github.com/SiAnakAlim/App-Mobile-Cuacaku/blob/master/homescreen%20cuacaku.jpg?raw=true) | ![Login Screen CuacaKu](https://github.com/SiAnakAlim/App-Mobile-Cuacaku/blob/master/login%20cuacaku.jpg?raw=true) |
+| <img src="https://github.com/SiAnakAlim/App-Mobile-Cuacaku/blob/master/homescreen%20cuacaku.jpg?raw=true" width="400"> | <img src="https://github.com/SiAnakAlim/App-Mobile-Cuacaku/blob/master/login%20cuacaku.jpg?raw=true" width="400"> |
 
 ---
 
@@ -76,9 +76,9 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi CuacaKu di perangk
 ### Cara Menggunakan Aplikasi
 
 1.  **Daftar/Login:** Pada halaman pembuka, Anda akan diminta untuk mendaftar akun baru atau login jika sudah memiliki akun.
-    ![Login Screen CuacaKu](https://github.com/SiAnakAlim/App-Mobile-Cuacaku/blob/master/login%20cuacaku.jpg?raw=true)
+    <img src="https://github.com/SiAnakAlim/App-Mobile-Cuacaku/blob/master/login%20cuacaku.jpg?raw=true" width="300"> *(Ganti `width` sesuai kebutuhan)*
 2.  **Jelajahi Cuaca:** Setelah login, Anda akan masuk ke Home Screen yang menampilkan cuaca. Gunakan fitur pencarian untuk melihat cuaca di berbagai lokasi.
-    ![Home Screen CuacaKu](https://github.com/SiAnakAlim/App-Mobile-Cuacaku/blob/master/homescreen%20cuacaku.jpg?raw=true)
+    <img src="https://github.com/SiAnakAlim/App-Mobile-Cuacaku/blob/master/homescreen%20cuacaku.jpg?raw=true" width="300"> *(Ganti `width` sesuai kebutuhan)*
 3.  **Akses Fitur Lain:** Navigasi melalui `BottomNavigationBar` untuk mengakses:
     * **Profil:** Lihat dan edit profil Anda, atau logout.
     * **Saran & Kesan:** Berikan umpan balik tentang aplikasi.
@@ -89,6 +89,9 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi CuacaKu di perangk
 
 Proyek ini dikembangkan sebagai Final Project mata kuliah Teknologi Pemrograman Mobile. Kontribusi dalam bentuk *issue*, *feature request*, atau *pull request* dipersilakan.
 
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
 
 ## 📧 Kontak
 

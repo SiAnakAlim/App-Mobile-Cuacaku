@@ -76,9 +76,9 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi CuacaKu di perangk
 ### Cara Menggunakan Aplikasi
 
 1.  **Daftar/Login:** Pada halaman pembuka, Anda akan diminta untuk mendaftar akun baru atau login jika sudah memiliki akun.
-    <img src="https://github.com/SiAnakAlim/App-Mobile-Cuacaku/blob/master/login%20cuacaku.jpg?raw=true" width="300"> *(Ganti `width` sesuai kebutuhan)*
+    <img src="https://github.com/SiAnakAlim/App-Mobile-Cuacaku/blob/master/login%20cuacaku.jpg?raw=true" width="300"> 
 2.  **Jelajahi Cuaca:** Setelah login, Anda akan masuk ke Home Screen yang menampilkan cuaca. Gunakan fitur pencarian untuk melihat cuaca di berbagai lokasi.
-    <img src="https://github.com/SiAnakAlim/App-Mobile-Cuacaku/blob/master/homescreen%20cuacaku.jpg?raw=true" width="300"> *(Ganti `width` sesuai kebutuhan)*
+    <img src="https://github.com/SiAnakAlim/App-Mobile-Cuacaku/blob/master/homescreen%20cuacaku.jpg?raw=true" width="300"> 
 3.  **Akses Fitur Lain:** Navigasi melalui `BottomNavigationBar` untuk mengakses:
     * **Profil:** Lihat dan edit profil Anda, atau logout.
     * **Saran & Kesan:** Berikan umpan balik tentang aplikasi.

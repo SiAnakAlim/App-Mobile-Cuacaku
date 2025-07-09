@@ -25,7 +25,7 @@ CuacaKu tidak hanya sekadar aplikasi cuaca, namun juga sebuah *tool* multifungsi
 * **Database Lokal:** [Hive](https://docs.hivedb.dev/)
 * **Enkripsi Password:** [Rail Fence Cipher](https://en.wikipedia.org/wiki/Rail_fence_cipher) (implementasi kustom)
 * **API Cuaca:** [API Publik BMKG](https://data.bmkg.go.id/)
-* **API Konversi Mata Uang:** (Sebutkan API yang Anda gunakan, contoh: [ExchangeRate-API](https://www.exchangerate-api.com/))
+* **API Konversi Mata Uang:** ((https://www.exchangerate-api.com/))
 * **Manajemen Status/Stream:** [RxDart](https://pub.dev/packages/rxdart) (untuk `BehaviorSubject` di AuthService)
 * **Notifikasi Lokal:** [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)
 * **Penanganan Waktu:** [timezone](https://pub.dev/packages/timezone)
@@ -45,10 +45,9 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi CuacaKu di perangk
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/nim_nama/nama-repo-cuacaku.git](https://github.com/nim_nama/nama-repo-cuacaku.git)
-    cd nama-repo-cuacaku
+    git clone [https://github.com/SiAnakAlim/App-Mobile-Cuacaku]
     ```
-    *(Ganti `nim_nama` dan `nama-repo-cuacaku` dengan detail repositori Anda)*
+
 
 2.  **Instal dependensi:**
     ```bash
